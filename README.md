@@ -54,7 +54,7 @@ Virtual environments allow us to have a deterministic and predictable
  runtime for our Python projects. You can apply what we learned in
  this exercise to make sure you have the right environment to
  run your Python code in for your future projects.
-***
+***``
 
 ## Resources
 
